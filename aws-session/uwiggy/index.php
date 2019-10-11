@@ -267,8 +267,8 @@ include 'includes/wallet.php';
   <footer class="page-footer">
     <div class="footer-copyright">
       <div class="container">
-        <span>Copyright © 2017 <a class="grey-text text-lighten-4" href="#" target="_blank">Students</a> All rights reserved.</span>
-        <span class="right"> Design and Developed by <a class="grey-text text-lighten-4" href="#">Students</a></span>
+        <span>Copyright © 2019 <a class="grey-text text-lighten-4" href="#" target="_blank">Soumyadip</a> All rights reserved.</span>
+        <span class="right"> Design and Developed by <a class="grey-text text-lighten-4" href="#">Soumyadip</a></span>
         </div>
     </div>
   </footer>
